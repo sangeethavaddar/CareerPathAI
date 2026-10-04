@@ -1,0 +1,84 @@
+skill,domain,category
+Python,Technology,Programming
+Java,Technology,Programming
+SQL,Technology,Database
+Git,Technology,Development Tools
+DSA,Technology,Computer Science
+HTML,Technology,Web Development
+CSS,Technology,Web Development
+JavaScript,Technology,Web Development
+Pandas,Technology,Data Science
+Statistics,Technology,Data Science
+Machine Learning,Technology,Artificial Intelligence
+Deep Learning,Technology,Artificial Intelligence
+Linux,Technology,System Administration
+Networking,Technology,Computer Networks
+Cybersecurity,Technology,Cybersecurity
+Cloud,Technology,Cloud Computing
+Docker,Technology,DevOps
+CAD,Engineering,Engineering Tools
+Thermodynamics,Engineering,Mechanical Engineering
+Mechanical Design,Engineering,Mechanical Engineering
+Manufacturing,Engineering,Manufacturing
+AutoCAD,Engineering,Civil Engineering
+Structural Analysis,Engineering,Civil Engineering
+Construction,Engineering,Civil Engineering
+Surveying,Engineering,Civil Engineering
+Circuit Design,Engineering,Electrical Engineering
+Electrical Systems,Engineering,Electrical Engineering
+Electronics,Engineering,Electronics
+Microcontrollers,Engineering,Embedded Systems
+Embedded Systems,Engineering,Electronics
+Biology,Healthcare,Life Science
+Medicine,Healthcare,Medical Science
+Communication,Healthcare,Soft Skills
+Clinical Skills,Healthcare,Healthcare
+Patient Care,Healthcare,Healthcare
+Pharmacology,Healthcare,Medicine
+Chemistry,Healthcare,Science
+Anatomy,Healthcare,Medical Science
+Accounting,Finance,Accounting
+Excel,Finance,Data Analysis
+Taxation,Finance,Accounting
+Financial Analysis,Finance,Finance
+Economics,Finance,Economics
+Investment,Finance,Finance
+Marketing,Business,Marketing
+Branding,Business,Marketing
+Strategy,Business,Management
+Data Analysis,Business,Analytics
+Leadership,Business,Management
+Recruitment,Business,Human Resources
+Conflict Resolution,Business,Human Resources
+Organization,Business,Management
+Teaching,Education,Teaching
+Subject Knowledge,Education,Education
+Presentation,Education,Communication
+Research,Education,Research
+Legal Research,Law,Legal
+Negotiation,Law,Legal
+Legal Writing,Law,Legal
+Writing,Media,Communication
+Interviewing,Media,Journalism
+Critical Thinking,Media,Communication
+Video Editing,Media,Digital Media
+Social Media,Media,Digital Media
+Graphic Design,Arts,Design
+Figma,Arts,Design
+Typography,Arts,Design
+Visual Communication,Arts,Design
+UI Design,Arts,Design
+UX Design,Arts,Design
+Prototyping,Arts,Design
+Architecture,Architecture,Design
+3D Modeling,Architecture,Design
+Agriculture,Agriculture,Agriculture
+Environmental Science,Environment,Science
+Sustainability,Environment,Environment
+Customer Service,Hospitality,Hospitality
+Cooking,Hospitality,Culinary
+Food Safety,Hospitality,Culinary
+Exercise Science,Sports,Sports Science
+Training,Sports,Sports
+Nutrition Basics,Sports,Health
+Coaching,Sports,Sports

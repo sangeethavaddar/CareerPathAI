@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Personal / generated data
+data/profile.json
+data/progress.json
+data/comparison.json
+data/roadmap.json
+data/resume.pdf
+data/resume_analysis.json
+data/learning_roadmap.json
+data/interview_career.json
+data/interview_progress.json
+data/skill_analysis.json
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

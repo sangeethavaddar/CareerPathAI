@@ -1,0 +1,23 @@
+{
+    "name": "Sangeetha V",
+    "age": "21",
+    "education": "Bachelor's Degree",
+    "specialization": "computer science and engineering",
+    "experience": "No Experience",
+    "career_goal": "engineer",
+    "preferred_domain": "Technology",
+    "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "HTML",
+        "JavaScript"
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Web Development"
+    ],
+    "projects": [
+        "Ecommerce Website"
+    ]
+}

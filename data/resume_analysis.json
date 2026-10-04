@@ -1,0 +1,140 @@
+{
+    "resume_score": 90,
+    "education": {
+        "degree": "Bachelor's Degree",
+        "specialization": "Computer Science and Engineering",
+        "percentage": "80%",
+        "year": "2021"
+    },
+    "skills": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "HTML",
+        "OOP",
+        "Operating System",
+        "Git",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Apache Tomcat",
+        "Eclipse",
+        "Claude AI"
+    ],
+    "projects": [
+        "Course feedback portal.",
+        "Ecommerce Website.",
+        "Voice-Controlled Home Automation using AI Assistance."
+    ],
+    "experience": [],
+    "sections": {
+        "Professional Summary": true,
+        "Education": true,
+        "Technical Skills": true,
+        "Certifications": true,
+        "Projects": true,
+        "Professional Experience": false,
+        "Achievements": true,
+        "Strengths": true,
+        "Hobbies": true,
+        "Languages": true
+    },
+    "related_careers": [
+        {
+            "career": "Software Developer",
+            "matched": [
+                "Python",
+                "Java",
+                "HTML",
+                "C",
+                "C++",
+                "OOP",
+                "Git",
+                "Operating System"
+            ],
+            "coverage": 80.0,
+            "industry": "Information Technology / Software",
+            "why": "Your resume contains several programming languages, OOP, Git, HTML and software-related project work.",
+            "demand": "High",
+            "demand_reason": "Software and application developers remain important technology roles, with programming and technological literacy continuing to be important skills."
+        },
+        {
+            "career": "Cybersecurity Analyst",
+            "matched": [
+                "Operating System",
+                "C",
+                "C++",
+                "Python"
+            ],
+            "coverage": 100.0,
+            "industry": "Cybersecurity",
+            "why": "Your operating-system and programming foundation can support cybersecurity learning, but your resume does not currently show direct cybersecurity skills or projects.",
+            "demand": "Very High",
+            "demand_reason": "Networks and cybersecurity are among the technology skill areas expected to increase strongly in importance."
+        },
+        {
+            "career": "Cloud Engineer",
+            "matched": [
+                "Python",
+                "Java",
+                "Git",
+                "Operating System"
+            ],
+            "coverage": 100.0,
+            "industry": "Cloud / Infrastructure",
+            "why": "Programming, Git and operating-system knowledge provide useful foundations, but your resume does not currently show AWS, Azure or cloud projects.",
+            "demand": "High",
+            "demand_reason": "Cloud adoption and digital infrastructure continue to create demand for cloud and infrastructure capabilities."
+        },
+        {
+            "career": "Web Developer",
+            "matched": [
+                "HTML",
+                "Python",
+                "Java",
+                "Git"
+            ],
+            "coverage": 66.7,
+            "industry": "Web / Digital Products",
+            "why": "Your resume contains HTML, programming skills, Git and an Ecommerce Website project.",
+            "demand": "High",
+            "demand_reason": "Web and full-stack development continue to use JavaScript, HTML, programming and version control."
+        },
+        {
+            "career": "AI Engineer",
+            "matched": [
+                "Python",
+                "Artificial Intelligence",
+                "Claude AI"
+            ],
+            "coverage": 100.0,
+            "industry": "Artificial Intelligence / Software",
+            "why": "Your resume explicitly mentions Python and artificial intelligence, includes AI/ML certification, Claude AI and an AI-assisted home-automation project.",
+            "demand": "Very High",
+            "demand_reason": "AI and machine-learning roles are among the fastest-growing technology career areas."
+        },
+        {
+            "career": "Data Scientist",
+            "matched": [
+                "Python",
+                "Artificial Intelligence"
+            ],
+            "coverage": 66.7,
+            "industry": "Data Science / AI",
+            "why": "Python, AI and SQL provide a foundation for data science, although your resume does not currently show strong explicit statistics, Pandas or data-science project evidence.",
+            "demand": "High",
+            "demand_reason": "Data science and AI-related roles continue to have strong demand, with specialized skills becoming increasingly important."
+        },
+        {
+            "career": "Data Analyst",
+            "matched": [
+                "Python"
+            ],
+            "coverage": 50.0,
+            "industry": "Data / Business Intelligence",
+            "why": "Python and SQL provide a useful foundation for data analysis, although your resume currently contains less explicit analytics project evidence.",
+            "demand": "High",
+            "demand_reason": "SQL and Python are widely used in data and analytics work."
+        }
+    ]
+}
